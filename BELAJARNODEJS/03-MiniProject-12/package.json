@@ -1,0 +1,9 @@
+{
+  "name": "mini-project-12",
+  "version": "1.0.0",
+  "description": "Mini Project Routing Web Sederhana dengan Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

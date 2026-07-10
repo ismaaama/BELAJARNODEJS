@@ -1,0 +1,9 @@
+{
+  "name": "latihan-praktikum-12",
+  "version": "1.0.0",
+  "description": "Latihan membuat HTTP Server dan Modul Lokal Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
